@@ -11,7 +11,7 @@ namespace aliqq\auth;
 use app\lib\token\Token;
 use LinCmsTp5\admin\model\LinUser;
 use aliqq\exception\DeployException;
-
+use think\Request;
 
 class Auth
 {

@@ -12,6 +12,7 @@ use app\lib\token\Token;
 use LinCmsTp5\admin\model\LinUser;
 use aliqq\exception\DeployException;
 
+
 class Auth
 {
     protected $request;
